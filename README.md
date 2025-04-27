@@ -1,4 +1,5 @@
 Sayacı Yönetme Uygulaması
+
 Bu proje, bir sayacın arttırılması, azaltılması ve sıfırlanması işlemlerini JavaScript kullanarak gerçekleştiren basit bir web uygulamasıdır. Uygulama, sayacı localStorage aracılığıyla kaydederek, sayfa yenilense bile kullanıcı verisinin korunmasını sağlar.
 
 Kullanılan Teknolojiler:
